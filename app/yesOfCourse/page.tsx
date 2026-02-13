@@ -69,11 +69,11 @@ export default function UguePage() {
     <main className="min-h-screen bg-[#f7b6c2] flex flex-col items-center justify-center px-4 relative overflow-hidden">
       <div className="max-w-4xl text-center z-10 mb-16 animate-fadeIn">
         <h1 className="text-[#b91c1c] text-5xl md:text-7xl font-bold mb-6">
-          Тийм гэж хэлсэнд чинь <br /> баярлалаа, Борхулан💞!
+          Тийм гэж хэлсэнд чинь <br /> баярлалаа, Хүслэн💞!
         </h1>
         <p className="text-[#7f1d1d] text-xl md:text-2xl font-semibold">
-          Цэлмүүнбаяраас 💞 нь зориулж бэлдсэн энэ бүхэн миний хайрын өчүүхэн
-          хэсэг нь шүү ✨
+          Энхжингээс 💞 нь зориулж бэлдсэн энэ бүхэн миний хайрын өчүүхэн хэсэг
+          нь шүү ✨
         </p>
       </div>
 
