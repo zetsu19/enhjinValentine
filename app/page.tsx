@@ -19,12 +19,12 @@ export default function Home() {
         />
       </div>
       <h1 className="text-center text-5xl md:text-6xl font-extrabold text-red-700 leading-tight drop-shadow-md">
-        Сайн уу, Хүслэн💞
+        Сайн уу, Борхулан💞
         <br />
         Миний Валентин болох уу?
       </h1>
       <p className="text-center text-xl md:text-2xl font-semibold text-red-600 mt-4 drop-shadow-sm">
-        хайрт Бэмбий-ээс нь 💞
+        хайрт Цэлмүүнбаяр-аас нь 💞
       </p>
       <div className="flex gap-8 mt-12 flex-wrap justify-center">
         <Button
